@@ -41,8 +41,8 @@ int main()
                 printf("\n\nEnter element to push: ");
                 scanf("%d",&value);
                 stack[index]=value;
+                printf("Element Pushed.\n\n");
             }
-            printf("Element Pushed.\n\n");
         }
 
         else if(choice==2)                                                                                                  /// code for pop from stack
