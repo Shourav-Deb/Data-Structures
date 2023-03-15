@@ -110,7 +110,7 @@ int main()
                 printf("\t [%.2f + %.2f = %.2f]", b,a,c);
             }
             else if ( * y == '-')
-                {
+            {
                 c = b - a;
                 printf("\t [%.2f - %.2f = %.2f]", b,a,c);
             }
