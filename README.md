@@ -4,4 +4,4 @@
 <h1 align="center"> <img align="right" alt="Coding" width="600" src="https://i.pinimg.com/originals/ca/40/a8/ca40a8154a0853dcfe2e1eaa451579fc.gif"></h1>
 
 
-<h1 align="center"> This is a Support Repository for Data-Structure Learners.</h1>
+<h1 align="center"> This is a Study Support Repository for Data-Structure Learners.</h1>
